@@ -30,6 +30,14 @@ laftel.search("코노스바").then(result => {
 
 **[Dyij](https://github.com/Muzihuzi)**
 
+## Contributors 
+
+
+<table>
+    <table><tr><td align="center"><a href="https://github.com/pmh-only"><img src="https://avatars.githubusercontent.com/u/39158228?v=4&s=100" width="100px;"><br />pmh-only</a></td>
+  </table>
+
+
 ### License
 
 This repository is [GNU-3.0](https://github.com/Muzihuzi/laftel.js/blob/main/LICENSE) licensed.
