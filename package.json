@@ -1,6 +1,7 @@
 {
     "name": "laftel.js",
     "version": "0.1.1",
+    "types": "index.d.ts",
     "description": "non-official laftel api wrapper",
     "main": "index.js",
     "scripts": {
