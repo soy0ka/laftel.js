@@ -1,5 +1,5 @@
 # laftel.js
-
+[![Build Status](https://travis-ci.com/Muzihuzi/laftel.js.svg?branch=main)](https://travis-ci.com/Muzihuzi/laftel.js)
 > Unofficial laftel api wrapper
 
 ---
